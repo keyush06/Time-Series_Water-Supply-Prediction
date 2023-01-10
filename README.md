@@ -1,5 +1,5 @@
 
-## Used ARIMA model to predict the water supply by chossing the optimal parameters through Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) plots.
+## Used ARIMA model to predict the water supply by choosing the optimal parameters through Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) plots.
 
 ##### The steps involved in the development of this project: -
 
